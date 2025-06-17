@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog!
 
-I am testing GitHub
+# I am testing GitHub
 ---
